@@ -1,2 +1,2 @@
 # cs61b sp2021
-labs, hws, projects
+labs, hws and projects
